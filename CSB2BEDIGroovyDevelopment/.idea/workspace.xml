@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2BLXML_310_IPPULP.groovy" line="1113" mnemonic="8" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="e064f575-9ff6-4d18-b6cc-b856549767e6" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -15,28 +12,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="GroovyMappingLocalE2E.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/e2e/demo/GroovyMappingLocalE2E.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="27" column="30" lean-forward="false" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SQLGenerator_GroovyScript.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/e2e/util/SQLGenerator_GroovyScript.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="203" column="4" lean-forward="true" selection-start-line="203" selection-start-column="4" selection-end-line="203" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -101,11 +77,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2BLXML_310_GTNEXUS_MATTELGTN.groovy" />
-        <option value="$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2BLXML_310_CARGILLGTN.groovy" />
-        <option value="$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2BLXML_310_GTNEXUS_CARGILLGTN.groovy" />
-        <option value="$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2BLXML_310_CEVAEAGLE.groovy" />
-        <option value="$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2BLXML_310_GTNEXUS_CEVAEAGLE.groovy" />
         <option value="$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2BLXML_310_DOWCHEMICALGTN.groovy" />
         <option value="$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2BLXML_310_GTNEXUS_DOWCHEMICALGTN.groovy" />
         <option value="$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2BLXML_310_GTNEXUS_HMCPGTN.groovy" />
@@ -152,6 +123,11 @@
         <option value="$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2BLXML_310_SARECYCLING.groovy" />
         <option value="$PROJECT_DIR$/src/cs/b2b/core/mapping/api/helper/BuildApiJson.java" />
         <option value="$PROJECT_DIR$/src/cs/b2b/mapping/e2e/util/SQLGenerator_GroovyScript.java" />
+        <option value="$PROJECT_DIR$/src/cs/b2b/mapping/util/XmlBeanParserTester.java" />
+        <option value="$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2CTXML_XML_WGLL.java" />
+        <option value="$PROJECT_DIR$/src/cs/b2b/mapping/e2e/demo/GroovyMappingLocalE2E.java" />
+        <option value="$PROJECT_DIR$/src/cs/b2b/mapping/e2e/demo/DemoGroovy_Xml2Xml.java" />
+        <option value="$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2CTXML_XML_WGLL.groovy" />
       </list>
     </option>
   </component>
@@ -330,7 +306,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -340,28 +315,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="CSB2BEDIGroovyDevelopment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CSB2BEDIGroovyDevelopment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CSB2BEDIGroovyDevelopment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="b2b" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mapping" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -408,15 +361,90 @@
               <option name="myItemId" value="b2b" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mapping" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="e2e" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSB2BEDIGroovyDevelopment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSB2BEDIGroovyDevelopment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="b2b" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mapping" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="e2e" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSB2BEDIGroovyDevelopment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSB2BEDIGroovyDevelopment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="b2b" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSB2BEDIGroovyDevelopment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSB2BEDIGroovyDevelopment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CT_WGLL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="D:/My Documents/MyJavaWorkSpace/OLLJavaCommonCoreLibrary" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="Errors" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -429,11 +457,11 @@
       <recent name="cs.b2b.mapping.e2e.demo" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\VECTesting\B2B_VEC_Testing\B2B_VEC_Testing\CSB2BEDIGroovyDevelopment\src\cs\b2b\mapping" />
       <recent name="D:\git\b2b_cs_customers\common\applications\kukri\src\03_java_projects\CSB2BReconciTool\WorkingConfig\MappingConfig" />
       <recent name="D:\git\b2b_cs_customers\common\applications\kukri\src\03_java_projects\CSB2BEDIGroovyDevelopment\src\cs\b2b\mapping\scripts" />
       <recent name="D:\git\b2b_cs_customers\common\applications\kukri\src\03_java_projects\CSB2BEDIGroovyDevelopment\src\cs\b2b\core\mapping\bean\si" />
       <recent name="D:\git\b2b_cs_customers\common\applications\kukri\src\03_java_projects\CSB2BEDIGroovyDevelopment\src\cs\b2b\core\mapping\bean\ss_pt2pt" />
-      <recent name="D:\git\b2b_cs_customers\common\applications\kukri\src\03_java_projects\CSB2BEDIGroovyDevelopment\IG_Definition" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -448,33 +476,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SQLGenerator_GroovyScript">
-    <configuration default="false" name="EIR_EASIPASS_BC_UnitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="cs.b2b.mapping.unittest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="CSB2BEDIGroovyDevelopment" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="cs.b2b.mapping.unittest" />
-      <option name="MAIN_CLASS_NAME" value="cs.b2b.mapping.unittest.EIR_EASIPASS_BC_UnitTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.GroovyMappingLocalE2E">
     <configuration default="false" name="EIR_EASIPASS_BC_UnitTest.testFTX" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -549,6 +551,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="cs.b2b.mapping.e2e.util.SQLGenerator_GroovyScript" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CSB2BEDIGroovyDevelopment" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="GroovyMappingLocalE2E" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cs.b2b.mapping.e2e.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="cs.b2b.mapping.e2e.demo.GroovyMappingLocalE2E" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -796,19 +818,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.GroovyMappingLocalE2EQA" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.EIR_EASIPASS_BC_UnitTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.EIR_EASIPASS_BC_UnitTest.testFTX" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ApiSqlGenerator" />
-      <item index="4" class="java.lang.String" itemvalue="Application.BuildApiJson" />
-      <item index="5" class="java.lang.String" itemvalue="Application.SQLGenerator_GroovyScript" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.EIR_EASIPASS_BC_UnitTest.testFTX" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ApiSqlGenerator" />
+      <item index="3" class="java.lang.String" itemvalue="Application.BuildApiJson" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SQLGenerator_GroovyScript" />
+      <item index="5" class="java.lang.String" itemvalue="Application.GroovyMappingLocalE2E" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.SQLGenerator_GroovyScript" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ApiSqlGenerator" />
-        <item index="2" class="java.lang.String" itemvalue="Application.BuildApiJson" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.EIR_EASIPASS_BC_UnitTest.testFTX" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.EIR_EASIPASS_BC_UnitTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.GroovyMappingLocalE2E" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SQLGenerator_GroovyScript" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ApiSqlGenerator" />
+        <item index="3" class="java.lang.String" itemvalue="Application.BuildApiJson" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.EIR_EASIPASS_BC_UnitTest.testFTX" />
       </list>
     </recent_temporary>
   </component>
@@ -870,8 +892,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299435" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -883,18 +904,18 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4318902" sideWeight="0.2087327" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33896515" sideWeight="0.79126734" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36642027" sideWeight="0.79126734" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32768363" sideWeight="0.4978701" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1828125" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5096045" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40337908" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1197,6 +1218,12 @@
           <properties />
           <option name="timeStamp" value="208" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cs/b2b/mapping/e2e/util/DemoBase.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="215" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/cs/b2b/core/mapping/util/MappingUtil_BL_O_Common.groovy</url>
           <line>133</line>
@@ -1206,7 +1233,7 @@
           <option name="timeStamp" value="209" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="213" />
+      <option name="time" value="216" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1215,185 +1242,13 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/unittest/LOWES_BC_UnitTest.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1059">
-          <caret line="26" column="6" lean-forward="false" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/unittest/OOCLLOGISTICS_BL_UnitTest.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1282">
-          <caret line="17" column="6" lean-forward="false" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
-          <folding>
-            <element signature="n#!!block;n#testGeneralInfo#0;n#!!block;n#OOCLLOGISTICS_BL_UnitTest#0" expanded="false" />
-            <element signature="n#!!block;n#testBLDetails_BookingInfo#0;n#!!block;n#OOCLLOGISTICS_BL_UnitTest#0" expanded="false" />
-            <element signature="n#!!block;n#testBLDetails_UserReferences#0;n#!!block;n#OOCLLOGISTICS_BL_UnitTest#0" expanded="false" />
-            <element signature="n#!!block;n#testBLDetails_LegalParties#0;n#!!block;n#OOCLLOGISTICS_BL_UnitTest#0" expanded="false" />
-            <element signature="n#!!block;n#testBLDetails_RouteInformation#0;n#!!block;n#OOCLLOGISTICS_BL_UnitTest#0" expanded="false" />
-            <element signature="n#!!block;n#testBLDetails_EquipmentInformation#0;n#!!block;n#OOCLLOGISTICS_BL_UnitTest#0" expanded="false" />
-            <element signature="n#!!block;n#testBLDetails_CargoInformation#0;n#!!block;n#OOCLLOGISTICS_BL_UnitTest#0" expanded="false" />
-            <element signature="n#!!block;n#testSummaryDetails_BLInformation#0;n#!!block;n#OOCLLOGISTICS_BL_UnitTest#0" expanded="false" />
-            <element signature="n#!!block;n#testSummaryDetails_Charges#0;n#!!block;n#OOCLLOGISTICS_BL_UnitTest#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/unittest/OOCLLOGISTICS_BC_UnitTest.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-439">
-          <caret line="20" column="6" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/unittest/EASTMANCHEMICAL_BC_UnitTest.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="220" column="0" lean-forward="false" selection-start-line="220" selection-start-column="0" selection-end-line="220" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2BLXML_310_GTNEXUS.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="649">
-          <caret line="942" column="46" lean-forward="true" selection-start-line="942" selection-start-column="46" selection-end-line="942" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2BLXML_310_OFCDEPOT.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="283" column="69" lean-forward="true" selection-start-line="283" selection-start-column="69" selection-end-line="283" selection-end-column="69" />
-          <folding>
-            <element signature="n#!!block;n#mapping#0;n#!!block;n#CUS_CS2BLXML_310_OFCDEPOT#0" expanded="false" />
-            <element signature="n#!!block;n#pospValidation#0;n#!!block;n#CUS_CS2BLXML_310_OFCDEPOT#0" expanded="false" />
-            <element signature="n#!!block;n#syntaxValidation#0;n#!!block;n#CUS_CS2BLXML_310_OFCDEPOT#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2BLXML_310_GTNEXUS_STORAENSOGTN.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="397" column="25" lean-forward="true" selection-start-line="397" selection-start-column="25" selection-end-line="397" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../CSB2BReconciTool/WorkingConfig/MappingConfig/BL_O_SARECYCLING_mapping.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="91" lean-forward="false" selection-start-line="9" selection-start-column="91" selection-end-line="9" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../CSB2BReconciTool/WorkingConfig/MappingConfig/BL_O_WEYERHAEUSER_mapping.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="92" lean-forward="false" selection-start-line="9" selection-start-column="92" selection-end-line="9" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/unittest/FRIESLANDGTN_BC_UnitTest.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="70" column="8" lean-forward="true" selection-start-line="70" selection-start-column="8" selection-end-line="70" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../CSB2BCommonCoreJavaLibrary/src/cs/b2b/core/common/xmlvalidation/ValidateXML.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="32" column="63" lean-forward="true" selection-start-line="32" selection-start-column="63" selection-end-line="32" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2BLXML_XML_OOCLLOGISTICS.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="902" column="62" lean-forward="true" selection-start-line="902" selection-start-column="62" selection-end-line="902" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs/b2b/core/mapping/api/helper/SchemaSQLGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/unittest/OFCDEPOT_BL_UnitTest.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="603" column="61" lean-forward="true" selection-start-line="603" selection-start-column="61" selection-end-line="603" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2BLXML_XML_WGLL.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="18" column="34" lean-forward="false" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2BLXML_XML_YAZAKIPWC.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="622" column="67" lean-forward="true" selection-start-line="622" selection-start-column="67" selection-end-line="622" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2BLXML_310_LLBEANUSBANK.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2BCXML_301_KODAKEXPORT.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2BCXML_XML_BUYCO.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2CTXML_315_DSGOODS.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2CTXML_315_KANDNUS.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="27" column="6" lean-forward="false" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2BLXML_310_IPPULP.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="887" column="52" lean-forward="false" selection-start-line="887" selection-start-column="50" selection-end-line="887" selection-end-column="52" />
-          <folding>
-            <element signature="e#13550#14739#0" expanded="false" />
-            <element signature="e#14750#16476#0" expanded="false" />
-            <element signature="e#16496#18217#0" expanded="false" />
-            <element signature="e#18237#20734#0" expanded="false" />
-            <element signature="n#!!block;n#prepValidation#0;n#!!block;n#CUS_CS2BLXML_310_IPPULP#0" expanded="false" />
-            <element signature="n#!!block;n#pospValidation#0;n#!!block;n#CUS_CS2BLXML_310_IPPULP#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2BLXML_XML_YAZAKIPWC.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2BLXML_310_LLBEANUSBANK.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2BCXML_301_KODAKEXPORT.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2BCXML_XML_BUYCO.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2CTXML_315_DSGOODS.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2CTXML_315_KANDNUS.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2BLXML_310_IPPULP.groovy" />
     <entry file="file://$PROJECT_DIR$/src/cs/b2b/core/mapping/bean/br/BookingRequest.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
@@ -1408,86 +1263,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2BLXML_310_AMAZON.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <element signature="e#32#73#0" expanded="true" />
-            <element signature="e#26991#27521#0" expanded="false" />
-            <element signature="e#27558#28178#0" expanded="false" />
-            <element signature="e#28239#30725#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CAR_CS2BRXML_IFTMBF_CMACGM.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="4" column="44" lean-forward="true" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
-          <folding>
-            <element signature="n#!!block;n#constructContactNumber#0;n#!!block;n#CAR_CS2BRXML_IFTMBF_CMACGM#0" expanded="false" />
-            <element signature="n#!!block;n#constructContactNumber#1;n#!!block;n#CAR_CS2BRXML_IFTMBF_CMACGM#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2BLXML_310_GTNEXUS_VFCGTN.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="176" column="21" lean-forward="true" selection-start-line="176" selection-start-column="21" selection-end-line="176" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/unittest/CAR_CS2BRXML_IFTMBF_CMACGM_Test.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="52" column="77" lean-forward="false" selection-start-line="52" selection-start-column="77" selection-end-line="52" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/unittest/EIR_EASIPASS_BC_UnitTest.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="320" column="8" lean-forward="false" selection-start-line="320" selection-start-column="8" selection-end-line="320" selection-end-column="60" />
-          <folding>
-            <element signature="e#1839#4924#1" expanded="false" />
-            <element signature="e#5448#8829#1" expanded="false" />
-            <element signature="e#9217#12598#1" expanded="false" />
-            <element signature="e#15424#17021#1" expanded="false" />
-            <element signature="e#17747#19344#1" expanded="false" />
-            <element signature="e#20000#21593#1" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2BCXML_D96B_EIR_EASIPASS.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2902">
-          <caret line="167" column="210" lean-forward="false" selection-start-line="167" selection-start-column="210" selection-end-line="167" selection-end-column="210" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2BLXML_310_GTNEXUS_GTN_PHILIPS.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="24" column="38" lean-forward="true" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/unittest/BL_common_Util_Unittest.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-991">
-          <caret line="19" column="4" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2BLXML_310_AMAZON.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CAR_CS2BRXML_IFTMBF_CMACGM.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2BLXML_310_GTNEXUS_VFCGTN.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/unittest/CAR_CS2BRXML_IFTMBF_CMACGM_Test.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/unittest/EIR_EASIPASS_BC_UnitTest.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2BCXML_D96B_EIR_EASIPASS.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2BLXML_310_GTNEXUS_GTN_PHILIPS.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/unittest/BL_common_Util_Unittest.groovy" />
     <entry file="file://$PROJECT_DIR$/src/cs/b2b/core/mapping/api/ApiSqlGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="26" column="37" lean-forward="false" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1498,13 +1285,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2BLXML_310_WEYERHAEUSER.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-832">
-          <caret line="19" column="64" lean-forward="false" selection-start-line="19" selection-start-column="64" selection-end-line="19" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2BLXML_310_WEYERHAEUSER.groovy" />
     <entry file="file://$PROJECT_DIR$/IG_ForesightSchema/CUS_4010_310_CS/T310_JavaBeans.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-55">
@@ -1519,20 +1300,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/unittest/AMAZON_BL_UnitTest.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="208" column="57" lean-forward="true" selection-start-line="208" selection-start-column="57" selection-end-line="208" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/unittest/IMERYS_BC_UnitTest.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="58" column="92" lean-forward="true" selection-start-line="58" selection-start-column="92" selection-end-line="58" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/unittest/AMAZON_BL_UnitTest.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/unittest/IMERYS_BC_UnitTest.groovy" />
     <entry file="file://$PROJECT_DIR$/src/cs/b2b/core/mapping/api/helper/BuildApiJson.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="407">
@@ -1540,17 +1309,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2BLXML_310_SDV.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="63" column="104" lean-forward="false" selection-start-line="63" selection-start-column="97" selection-end-line="63" selection-end-column="104" />
-          <folding>
-            <element signature="e#26756#28172#0" expanded="false" />
-            <element signature="e#28491#28914#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2BLXML_310_SDV.groovy" />
     <entry file="file://$PROJECT_DIR$/src/cs/b2b/core/mapping/bean/bl/BillOfLading.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="287">
@@ -1562,24 +1321,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="277">
           <caret line="177" column="31" lean-forward="false" selection-start-line="177" selection-start-column="31" selection-end-line="177" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2BLXML_310_CARDINALHEALTHAMBER.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="958" column="27" lean-forward="false" selection-start-line="958" selection-start-column="27" selection-end-line="958" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2BLXML_310_SARECYCLING.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="269" column="63" lean-forward="false" selection-start-line="269" selection-start-column="63" selection-end-line="269" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2BLXML_310_CARDINALHEALTHAMBER.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2BLXML_310_SARECYCLING.groovy" />
     <entry file="file://$PROJECT_DIR$/src/cs/b2b/core/mapping/util/MappingUtil_BL_O_Common.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="103">
@@ -1630,42 +1376,140 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/e2e/demo/GroovyMappingLocalE2E.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="27" column="30" lean-forward="false" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/e2e/util/SQLGenerator_CS2Schema.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/e2e/util/SQLGenerator_CS2Schema.java" />
     <entry file="file://$PROJECT_DIR$/src/cs/b2b/core/mapping/util/MappingUtil_CT_O_Common.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
           <caret line="1239" column="40" lean-forward="false" selection-start-line="1239" selection-start-column="9" selection-end-line="1239" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2CTXML_315_CARGOMSVCGTN.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/e2e/util/SQLGenerator_GroovyScript.java" />
+    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/e2e/util/SQLGenerator_CS2Schema.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2CTXML_315_CARGOMSVCGTN.groovy">
+    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/e2e/util/CommonUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="833" column="37" lean-forward="false" selection-start-line="833" selection-start-column="15" selection-end-line="833" selection-end-column="37" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/e2e/util/ApiParamMappingScript.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/e2e/util/LocalFileUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/e2e/util/BelugaOceanHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/e2e/util/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/e2e/util/ConnectionForTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/e2e/util/XmlBeanParserTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/e2e/util/SQLGenerator_GroovyScript.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="203" column="4" lean-forward="true" selection-start-line="203" selection-start-column="4" selection-end-line="203" selection-end-column="4" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2CTXML_XML_WGLL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/CT_WGLL/in_WGLL.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/jdk/jdk1.8.0_77/src.zip!/javax/xml/parsers/DocumentBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="224" column="29" lean-forward="false" selection-start-line="224" selection-start-column="29" selection-end-line="224" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/scripts/CUS_CS2CTXML_XML_WGLL.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="53" column="0" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/e2e/demo/DemoGroovy_Xml2Xml.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/e2e/demo/GroovyMappingLocalE2E.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cs/b2b/mapping/e2e/util/DemoBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="49" column="29" lean-forward="false" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -1723,11 +1567,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>CSB2BEDICommonCoreLibrary</last-edited>
+          <last-edited>CSB2BEDIGroovyDevelopment</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.19543974" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

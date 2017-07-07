@@ -23,10 +23,10 @@ public class DemoGroovy_Xml2Xml extends DemoBase {
 	String mappingMsgTypeCommonScriptFilePath = "./src/cs/b2b/core/mapping/util/MappingUtil_CT_O_Common.groovy";
 	
 	//3, PMT groovy script file
-	static String ediMappingGroovyScriptFileNamePath = "./src/cs/b2b/mapping/scripts/CUS_CS2CTXML_315_JCPENNYYUSEN.groovy";
+	static String ediMappingGroovyScriptFileNamePath = "./src/cs/b2b/mapping/scripts/CUS_CS2CTXML_XML_WGLL.groovy";
 		
 	//4, provide your test file here
-	static String testInputFileNamePath = "./demo/CT_DSGOOGS/in_DSGOODS_CS020.xml";
+	static String testInputFileNamePath = "./demo/CT_WGLL/in_WGLL.xml";
 	
 	
 	public void demo() throws Exception {
@@ -55,7 +55,7 @@ public class DemoGroovy_Xml2Xml extends DemoBase {
 					"AppSessionID="+System.currentTimeMillis(), 
 					"OriginalSourceFileName="+(new File(testInputFileNamePath)).getName(), 
 					"MSG_REQ_ID=TEST-MSG-REQ-ID-0011", 
-					"TP_ID=DSGOODS", 
+					"TP_ID=WGLL",
 					"MSG_TYPE_ID=CT", 
 					"DIR_ID=O"};
 			
