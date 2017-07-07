@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="activation">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../CSB2BCommonCoreJavaLibrary/lib/activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../CSB2BCommonCoreJavaLibrary/lib/B2B-Framework-SERVICE-1.1-20170601.084017-147.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../CSB2BCommonCoreJavaLibrary/lib/commons-compress-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../CSB2BCommonCoreJavaLibrary/lib/commons-lang3-3.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../CSB2BCommonCoreJavaLibrary/lib/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../CSB2BCommonCoreJavaLibrary/lib/groovy-all-2.4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../CSB2BCommonCoreJavaLibrary/lib/groovy-all-2.4.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../CSB2BCommonCoreJavaLibrary/lib/gson-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../CSB2BCommonCoreJavaLibrary/lib/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../CSB2BCommonCoreJavaLibrary/lib/ojdbc6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../CSB2BCommonCoreJavaLibrary/lib/simple-java-mail-4.2.3-java6-release.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../CSB2BCommonCoreJavaLibrary/lib/stax-api-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../CSB2BCommonCoreJavaLibrary/lib/xdb6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../CSB2BCommonCoreJavaLibrary/lib/xmlbeans-2.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
